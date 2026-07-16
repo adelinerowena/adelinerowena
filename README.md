@@ -150,4 +150,4 @@ Project repositories, dashboard previews and interactive links will be added as 
 ## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/adelinerowena)
-- [View My Resume](Adeline Rowena Resume.pdf)
+- [View My Resume](Adeline-Rowena-Resume.pdf)
