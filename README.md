@@ -1,6 +1,6 @@
 # Hi, I'm Adeline Rowena, MBA 👋
 
-### Sales Analyst | Sales Operations | CRM Reporting | Business Analytics
+### Sales Analyst | Sales Operations | CRM & Pipeline Reporting | Power BI, Tableau & Excel
 
 I am a Toronto-based Sales Analyst with 4+ years of experience across sales analysis, business development, pipeline management, forecast reporting and commercial operations.
 
@@ -26,26 +26,21 @@ I am currently expanding my portfolio through practical projects in **Power BI, 
 ### Sales Analyst  
 **Avery Weigh-Tronix | Toronto, Canada | May 2025–May 2026**
 
-- Analyzed product demand, regional performance, competitor pricing, costs and margins to support commercial pricing decisions.
-- Prepared monthly forecast reports and developed dashboards tracking revenue performance, pipeline movement, expected closings, lead conversion, lost sales and order status.
-- Managed more than $3M in customer orders across six regional sales teams.
-- Reviewed over 250 order forms and purchase orders and corrected pricing, documentation and order-entry issues before vendor submission.
-- Maintained Salesforce pipeline accuracy by updating opportunity stages, values, probabilities and expected close dates.
-- Reconciled Salesforce records with Excel and IBM KBM to improve CRM accuracy and reporting reliability.
-- Coordinated with Sales, Finance, Accounting, production teams and vendors to resolve pricing, documentation and order-management issues.
-- Developed a centralized Excel pricing calculator and order tracker that improved process consistency and reduced turnaround time.
-- Trained team members on reporting tools, order processes and CRM data-quality practices.
+- Analyzed product demand, regional performance, competitor pricing, costs and margins, contributing to five closed-won orders totaling $450K.
+- Prepared monthly forecasts and built 5+ Excel and Salesforce dashboards tracking revenue, pipeline movement, expected closings, lead conversion, lost sales and order status.
+- Managed $3M+ in customer orders across six regional sales teams and reviewed more than 250 order forms and purchase orders.
+- Maintained Salesforce pipeline accuracy by updating opportunity stages, values, probabilities and close dates and reconciling records across Salesforce, Excel and IBM KBM.
+- Coordinated with Sales, Finance, Accounting, production teams and vendors to prevent delays on a $300K customer project and negotiated a 20% reduction in vendor pricing.
+- Built a centralized Excel pricing calculator and order tracker that reduced order-processing cycle time from up to one week to one business day.
 
 ### Business Development Associate  
 **Avery Weigh-Tronix | Toronto, Canada | April 2023–April 2025**
 
 - Researched industrial accounts, product demand, territory coverage and competitor activity to identify more than 30 business opportunities.
-- Reviewed over 15 industrial tenders and commercial bid opportunities.
-- Prepared proposals, pricing summaries, technical specifications and sales presentations based on customer and procurement requirements.
-- Organized customer, opportunity, pricing, order and follow-up records across Salesforce, IBM KBM and SharePoint.
-- Analyzed purchasing patterns and product-demand trends to identify priority accounts and support regional opportunity planning.
-- Coordinated with customers, vendors, sales representatives and internal teams on pricing, product availability, procurement and technical requirements.
-- Supported improvements in pipeline visibility that contributed to active-account growth from 200 to 280 within one year.
+- Reviewed 15+ industrial tenders and prepared proposals, pricing summaries, technical specifications and sales presentations.
+- Streamlined customer, opportunity, pricing, order and follow-up records across Salesforce, IBM KBM and SharePoint.
+- Improved pipeline visibility and contributed to 40% active-account growth, increasing active accounts from 200 to 280 within one year.
+- Analyzed purchasing patterns and product-demand trends to prioritize accounts and support regional opportunity planning.
 
 ### Brand Associate  
 **GAP Inc. | Toronto, Canada | April 2021–August 2025**
@@ -58,58 +53,22 @@ I am currently expanding my portfolio through practical projects in **Power BI, 
 
 ## Core Competencies
 
-### Sales Analytics and Reporting
+**Sales Analytics:** Sales Performance Reporting, Forecasting, Pipeline Analysis, KPI Reporting, CRM Reporting, Lost-Sales Analysis, Pricing and Margin Analysis
 
-- Sales Performance Reporting
-- Sales Forecasting
-- Forecast-to-Actual Analysis
-- Pipeline Analysis
-- KPI Reporting
-- CRM Reporting
-- Lost-Sales Analysis
-- Pricing and Margin Analysis
-- Order-Cycle Analysis
-- Dashboard Development
+**Commercial Operations:** Sales Operations, Order Management, CRM Data Management, Market and Competitor Analysis, Process Improvement, Cross-Functional Collaboration
 
-### Sales and Commercial Operations
-
-- Sales Operations
-- Commercial Operations
-- Order Management
-- CRM Data Management
-- Market and Competitor Analysis
-- Process Improvement
-- Customer Analysis
-- Business Development
-- Cross-Functional Collaboration
-
-### Data and Technology
-
-- Microsoft Excel
-- PivotTables
-- XLOOKUP
-- VLOOKUP
-- Data Validation
-- Power BI
-- Tableau
-- SQL
-- Salesforce
-- IBM KBM
-- Microsoft 365
-
+**Tools:** Excel, PivotTables, XLOOKUP, VLOOKUP, Data Validation, Power BI, Tableau, SQL, Salesforce, IBM KBM, Microsoft 365
 ---
 
 ## Analytics Portfolio
 
-I am currently developing practical analytics projects that demonstrate how data can be used to improve reporting, pipeline visibility and business decision-making.
+I am building practical analytics projects focused on sales performance, customer trends, pipeline reporting and operational decision-making.
 
 ### Projects in Development
 
 - Sales Performance Dashboard — Power BI
 - Customer and Product Analysis — Tableau
 - Sales Pipeline Dashboard — Excel
-- Forecast and Performance Analysis
-- Commercial Operations and Order-Tracking Dashboard
 
 Project repositories, dashboard previews and interactive links will be added as they are completed.
 
@@ -133,17 +92,6 @@ Project repositories, dashboard previews and interactive links will be added as 
 
 ### Bachelor of Engineering in Computer Science  
 **Birla Institute of Technology | Oman**
-
----
-
-## Currently Developing
-
-- Power BI dashboard development
-- Tableau data visualization
-- Advanced Excel reporting
-- SQL data analysis
-- Sales and customer analytics
-- Data storytelling and dashboard design
 
 ---
 
