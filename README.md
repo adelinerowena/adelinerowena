@@ -1,70 +1,153 @@
-# Hi, I'm Adeline Rowena 👋
+# Hi, I'm Adeline Rowena, MBA 👋
 
-I'm an MBA graduate with experience in business development, sales operations support, CRM/reporting, customer follow-ups, quote coordination, and cross-functional communication.
+### Sales Analyst | Sales Operations | CRM Reporting | Business Analytics
 
-I’m currently targeting roles in Sales Analysis, Sales Operations, CRM Reporting, Business Analysis, and Data/Reporting-focused roles where I can help teams turn information into clearer visibility and better decision-making.
+I am a Toronto-based Sales Analyst with 4+ years of experience across sales analysis, business development, pipeline management, forecast reporting and commercial operations.
 
-## Career Focus
+My experience includes managing more than **$3M in customer orders**, developing sales and CRM dashboards, analyzing pricing and margins, improving pipeline data quality and creating reporting tools that support faster and more informed business decisions.
 
-* Sales Analysis
-* Sales Operations
-* CRM Reporting
-* Pipeline Visibility
-* Business Analysis
-* Dashboarding
-* Data Cleaning
-* Process Improvement
-* Customer and Sales Support
+I am currently expanding my portfolio through practical projects in **Power BI, Tableau, Excel and SQL**, with a focus on sales performance, customer trends, pipeline reporting and operational KPIs.
 
-## Experience
+---
 
-### Business Development Associate
+## Professional Highlights
 
-**Avery Weigh-Tronix**
+- Managed **$3M+ in customer orders** across six regional sales teams.
+- Conducted pricing and margin analysis that contributed to **five closed-won orders totaling $450K**.
+- Built **5+ Excel and Salesforce dashboards** for revenue, pipeline, forecast, lead conversion, lost-sales and order-status reporting.
+- Reduced order-processing cycle time from **up to one week to one business day** by developing a centralized pricing calculator and order tracker.
+- Negotiated a **20% reduction in vendor pricing** while supporting a $300K customer project.
+- Contributed to **40% active-account growth**, increasing active accounts from 200 to 280 within one year.
 
-In this role, I supported sales and service teams through quote preparation, customer follow-ups, CRM/data organization, reporting support, and coordination with technicians, sales teams, and customers.
+---
 
-Some of the areas I worked on include:
+## Professional Experience
 
-* Preparing and tracking customer quotes
-* Supporting regional sales teams with customer and opportunity information
-* Organizing customer and sales data for better follow-up visibility
-* Coordinating with technicians and internal teams for service and product-related updates
-* Communicating with customers through email and phone follow-ups
-* Supporting reporting, sales process tracking, and business development activities
+### Sales Analyst  
+**Avery Weigh-Tronix | Toronto, Canada | May 2025–May 2026**
 
-This experience helped me become more interested in sales analysis, sales operations, CRM reporting, and helping teams make better use of sales data.
+- Analyzed product demand, regional performance, competitor pricing, costs and margins to support commercial pricing decisions.
+- Prepared monthly forecast reports and developed dashboards tracking revenue performance, pipeline movement, expected closings, lead conversion, lost sales and order status.
+- Managed more than $3M in customer orders across six regional sales teams.
+- Reviewed over 250 order forms and purchase orders and corrected pricing, documentation and order-entry issues before vendor submission.
+- Maintained Salesforce pipeline accuracy by updating opportunity stages, values, probabilities and expected close dates.
+- Reconciled Salesforce records with Excel and IBM KBM to improve CRM accuracy and reporting reliability.
+- Coordinated with Sales, Finance, Accounting, production teams and vendors to resolve pricing, documentation and order-management issues.
+- Developed a centralized Excel pricing calculator and order tracker that improved process consistency and reduced turnaround time.
+- Trained team members on reporting tools, order processes and CRM data-quality practices.
+
+### Business Development Associate  
+**Avery Weigh-Tronix | Toronto, Canada | April 2023–April 2025**
+
+- Researched industrial accounts, product demand, territory coverage and competitor activity to identify more than 30 business opportunities.
+- Reviewed over 15 industrial tenders and commercial bid opportunities.
+- Prepared proposals, pricing summaries, technical specifications and sales presentations based on customer and procurement requirements.
+- Organized customer, opportunity, pricing, order and follow-up records across Salesforce, IBM KBM and SharePoint.
+- Analyzed purchasing patterns and product-demand trends to identify priority accounts and support regional opportunity planning.
+- Coordinated with customers, vendors, sales representatives and internal teams on pricing, product availability, procurement and technical requirements.
+- Supported improvements in pipeline visibility that contributed to active-account growth from 200 to 280 within one year.
+
+### Brand Associate  
+**GAP Inc. | Toronto, Canada | April 2021–August 2025**
+
+- Recognized twice as Employee of the Month for customer service and contribution to sales performance.
+- Generated more than 80 loyalty-program subscriptions through personalized customer engagement.
+- Supported customers with product recommendations, issue resolution and purchasing decisions during high-volume periods.
+
+---
+
+## Core Competencies
+
+### Sales Analytics and Reporting
+
+- Sales Performance Reporting
+- Sales Forecasting
+- Forecast-to-Actual Analysis
+- Pipeline Analysis
+- KPI Reporting
+- CRM Reporting
+- Lost-Sales Analysis
+- Pricing and Margin Analysis
+- Order-Cycle Analysis
+- Dashboard Development
+
+### Sales and Commercial Operations
+
+- Sales Operations
+- Commercial Operations
+- Order Management
+- CRM Data Management
+- Market and Competitor Analysis
+- Process Improvement
+- Customer Analysis
+- Business Development
+- Cross-Functional Collaboration
+
+### Data and Technology
+
+- Microsoft Excel
+- PivotTables
+- XLOOKUP
+- VLOOKUP
+- Data Validation
+- Power BI
+- Tableau
+- SQL
+- Salesforce
+- IBM KBM
+- Microsoft 365
+
+---
+
+## Analytics Portfolio
+
+I am currently developing practical analytics projects that demonstrate how data can be used to improve reporting, pipeline visibility and business decision-making.
+
+### Projects in Development
+
+- Sales Performance Dashboard — Power BI
+- Customer and Product Analysis — Tableau
+- Sales Pipeline Dashboard — Excel
+- Forecast and Performance Analysis
+- Commercial Operations and Order-Tracking Dashboard
+
+Project repositories, dashboard previews and interactive links will be added as they are completed.
+
+---
+
+## Leadership Experience
+
+### Business Development and Strategy Consultant  
+**Re-Defined | Toronto, Canada | October 2022–March 2025**
+
+- Led outreach and performance tracking for more than seven networking events serving over 400 students.
+- Coordinated volunteers, monitored campaign activity and managed stakeholder follow-ups.
+- Supported event planning, partnerships, outreach and project execution.
+
+---
 
 ## Education
 
-### Master of Business Administration
+### Master of Business Administration  
+**Thompson Rivers University | Canada**
 
-**Thompson Rivers University, Bob Gaglardi School of Business and Economics**
-Graduated with distinction
+### Bachelor of Engineering in Computer Science  
+**Birla Institute of Technology | Oman**
 
-Relevant areas of study included business strategy, data analytics, finance, operations, and management.
+---
 
-### Bachelor of Engineering in Computer Science
+## Currently Developing
 
-**Birla Institute of Technology, Mesra**
+- Power BI dashboard development
+- Tableau data visualization
+- Advanced Excel reporting
+- SQL data analysis
+- Sales and customer analytics
+- Data storytelling and dashboard design
 
-Built a foundation in technology, problem-solving, data, systems, and analytical thinking.
+---
 
-## Tools & Skills
+## Connect With Me
 
-**Tools:** Excel, Power BI, Salesforce, Microsoft 365, ServiceMax, Tableau, SQL
-**Business Skills:** Sales Operations, CRM Reporting, Customer Follow-Up, Data Organization, Quote Tracking, Process Improvement, Business Analysis
-**Strengths:** Communication, attention to detail, relationship building, problem-solving, adaptability, and cross-functional coordination
-
-## Volunteer & Leadership Experience
-
-I have also been involved in student, newcomer, and professional community initiatives, including event coordination, outreach, partnerships, and project support. These experiences helped me build confidence in communication, planning, stakeholder coordination, and relationship-building.
-
-## What I'm Building Toward
-
-I’m currently building my skills in Excel, Power BI, Salesforce reporting, and sales analytics. My goal is to grow into a Sales Analyst or Sales Operations role where I can support better forecasting, reporting, pipeline visibility, and business decision-making.
-
-## Connect with Me
-
-LinkedIn: https://www.linkedin.com/in/adelinerowena
-Resume: Add your resume link here
+- [LinkedIn](https://www.linkedin.com/in/adelinerowena)
+- [View My Resume](Adeline Rowena Resume.pdf)
